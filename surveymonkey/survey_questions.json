@@ -1,0 +1,21 @@
+{
+    "Survey_Name": {
+      "Page 1": {
+        "Question 1": {
+          "Description": "What is your favorite color?",
+          "Answers": ["Red", "Blue", "Green"]
+        },
+        "Question 2": {
+          "Description": "Choose a fruit.",
+          "Answers": ["Apple", "Banana", "Mango"]
+        }
+      },
+      "Page 2": {
+        "Question 3": {
+          "Description": "Preferred time for meeting?",
+          "Answers": ["Morning", "Afternoon", "Evening"]
+        }
+      }
+    }
+  }
+  
